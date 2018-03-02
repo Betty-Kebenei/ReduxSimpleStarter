@@ -32,7 +32,11 @@
     "react-dom": "^0.14.3",
     "react-redux": "4.3.0",
     "react-router": "^2.0.1",
+<<<<<<< HEAD
     "redux": "^3.0.4",
     "youtube-api-search": "0.0.5"
+=======
+    "redux": "^3.0.4"
+>>>>>>> bf6d70f260e737fd1e7783de23a3a1b50243d7da
   }
 }
